@@ -1,4 +1,7 @@
-# Groww-Clone
-Groww Clone
+## `Groww Web Clone` 🔥
 
-I creating the Groww Clone website using html css and javascript
+> **IBM SkillBuild Project**
+
+- 6 week `Internship` Program
+
+Tech Stack : `HTML` ||  `CSS`  ||  `Javascript`
